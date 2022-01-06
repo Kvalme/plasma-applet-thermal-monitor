@@ -5,7 +5,7 @@ Plasma 5 applet for monitoring CPU, GPU and other available temperature sensors.
 ### INSTALLATION
 
 ```sh
-$ git clone --depth=1 https://github.com/kotelnik/plasma-applet-thermal-monitor
+$ git clone --depth=1 https://github.com/Kvalme/plasma-applet-thermal-monitor
 $ cd plasma-applet-thermal-monitor/
 $ mkdir build
 $ cd build
